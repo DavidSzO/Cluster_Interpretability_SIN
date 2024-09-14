@@ -1,0 +1,163 @@
+DARE                                                                                                                                                  
+(Ar    (Xchg)     (      Identificacao da area       ) (Xmin) (Xmax)                                                                                  
+  1        0.     RS - 525 kV                                                                                                                         
+  2        0.     RS - 230 kV                                                                                                                         
+  3        0.     RS - DIT/DIST                                                                                                                       
+  4        0.     RS - DIT/DIST (Sul + Livramento 2)                                                                                                  
+  5        0.     RS - Consumidores RB                                                                                                                
+  6        0.     RS - Autoprodutores 230 kV                                                                                                          
+ 51        0.     SC - 525 kV                                                                                                                         
+ 52        0.     SC - 230 kV                                                                                                                         
+ 53        0.     SC - DIT/DIST                                                                                                                       
+ 54        0.     SC - Consumidores RB                                                                                                                
+101        0.     PR - 525 kV                                                                                                                         
+102        0.     PR - 230 kV                                                                                                                         
+103        0.     PR - DIT/DIST                                                                                                                       
+104        0.     PR - Consumidores RB                                                                                                                
+105        0.     PR - Autoprodutores 230 kV                                                                                                          
+201        0.     SP - 765 kV (SP+PR)                                                                                                                 
+202        0.     SP - 500 kV                                                                                                                         
+203        0.     SP - 440 kV                                                                                                                         
+204        0.     SP - 345 kV                                                                                                                         
+205        0.     SP - 230 kV                                                                                                                         
+206        0.     SP - DIT/DIST (Litoral)                                                                                                             
+207        0.     SP - DIT/DIST (ATB/MOG/CAMP)                                                                                                        
+208        0.     SP - DIT/DIST (Araras)                                                                                                              
+209        0.     SP - DIT/DIST (Jupiá)                                                                                                               
+210        0.     SP - DIT/DIST (P.Prudente)                                                                                                          
+211        0.     SP - DIT/DIST (CERQ/Oeste/Salto)                                                                                                    
+212        0.     SP - DIT/DIST (Região Metropolitana)                                                                                                
+213        0.     SP - DIT/DIST (Vale do Paraíba)                                                                                                     
+214        0.     SP - DIT/DIST (C. Paulista)                                                                                                         
+215        0.     SP - Autoprodutores DIT/DIST                                                                                                        
+216        0.     SP - Consumidores RB                                                                                                                
+217        0.     SP - Autoprodutores 440 kV                                                                                                          
+241        0.     PY - Sistema 50 Hz                                                                                                                  
+251        0.     RJ - 500 kV                                                                                                                         
+252        0.     RJ - 345 kV                                                                                                                         
+253        0.     RJ - 230 kV                                                                                                                         
+254        0.     RJ - DIT/DIST (Metropolitana)                                                                                                       
+255        0.     RJ - DIT/DIST (Sul Fluminense)                                                                                                      
+256        0.     RJ - DIT/DIST (Baixada Fluminense)                                                                                                  
+257        0.     RJ - DIT/DIST (Serrana)                                                                                                             
+258        0.     RJ - DIT/DIST (Lagos)                                                                                                               
+259        0.     RJ - DIT/DIST (Norte Fluminenese)                                                                                                   
+260        0.     RJ - Consumidores RB                                                                                                                
+261        0.     RJ - Autoprodutores 500 kV                                                                                                          
+262        0.     RJ - Autoprodutores DIT/DIST                                                                                                        
+301        0.     ES - 500 kV                                                                                                                         
+302        0.     ES - 345 kV                                                                                                                         
+303        0.     ES - 230 kV                                                                                                                         
+304        0.     ES - DIT/DIST (Grande Vitória)                                                                                                      
+305        0.     ES - DIT/DIST (Sul)                                                                                                                 
+306        0.     ES - DIT/DIST (Norte)                                                                                                               
+307        0.     ES - Autoprodutores DIT/DIST                                                                                                        
+351        0.     MG - 500 kV                                                                                                                         
+352        0.     MG - 345 kV                                                                                                                         
+353        0.     MG - 230 kV                                                                                                                         
+354        0.     MG - DIT/DIST (Metropolitana)                                                                                                       
+355        0.     MG - DIT/DIST (Mantiqueira)                                                                                                         
+356        0.     MG - DIT/DIST (Norte)                                                                                                               
+357        0.     MG - DIT/DIST (Leste)                                                                                                               
+358        0.     MG - DIT/DIST (Triângulo)                                                                                                           
+359        0.     MG - DIT/DIST (Sul)                                                                                                                 
+360        0.     MG - DIT/DIST (Oeste)                                                                                                               
+361        0.     MG - DIT/DIST (Padre Fialho)                                                                                                        
+362        0.     MG - Consumidores RB                                                                                                                
+363        0.     MG - Autoprodutores DIT/DIST                                                                                                        
+401        0.     MS - 440 kV                                                                                                                         
+402        0.     MS - 230 kV                                                                                                                         
+403        0.     MS - DIT/DIST                                                                                                                       
+404        0.     MS - Autoprodutores 230 kV                                                                                                          
+405        0.     MS - Autoprodutores DIT/DIST                                                                                                        
+431        0.     AC - 230 kV                                                                                                                         
+432        0.     AC - DIT/DIST (Rio Branco I)                                                                                                        
+451        0.     RO - 500 kV                                                                                                                         
+452        0.     RO - 230 kV                                                                                                                         
+453        0.     RO - DIT/DIST (Abunã)                                                                                                               
+454        0.     RO - DIT/DIST (Nova Mutum Paraná)                                                                                                   
+455        0.     RO - DIT/DIST (Porto Velho)                                                                                                         
+456        0.     RO - DIT/DIST (Ariquemes)                                                                                                           
+457        0.     RO - DIT/DIST (Jaru)                                                                                                                
+458        0.     RO - DIT/DIST (Ji-Paraná)                                                                                                           
+459        0.     RO - DIT/DIST (Pimenta Bueno)                                                                                                       
+460        0.     RO - DIT/DIST (Vilhena)                                                                                                             
+471        0.     MT - 500 kV                                                                                                                         
+472        0.     MT - 230 kV                                                                                                                         
+473        0.     MT - DIT/DIST (Sinop)                                                                                                               
+474        0.     MT - DIT/DIST (Sorriso)                                                                                                             
+475        0.     MT - DIT/DIST (Lucas do Rio Verde)                                                                                                  
+476        0.     MT - DIT/DIST (Dardanelos)                                                                                                          
+477        0.     MT - DIT/DIST (Anel Cuiabá)                                                                                                         
+478        0.     MT - DIT/DIST (Barra do Peixe)                                                                                                      
+479        0.     MT - DIT/DIST (Parecis)                                                                                                             
+480        0.     MT - Consumidores RB                                                                                                                
+481        0.     MT - Autoprodutores DIT/DIST                                                                                                        
+511        0.     GO - 500 kV                                                                                                                         
+512        0.     GO - 345 kV                                                                                                                         
+513        0.     GO - 230 kV                                                                                                                         
+514        0.     GO - DIT/DIST (Corumbá)                                                                                                             
+515        0.     GO - DIT/DIST (Goiânia)                                                                                                             
+516        0.     GO - DIT/DIST (Paranaíba)                                                                                                           
+517        0.     GO - DIT/DIST (Sudoeste)                                                                                                            
+518        0.     GO - DIT/DIST (Norte)                                                                                                               
+519        0.     GO - Consumidores RB                                                                                                                
+520        0.     GO - Autoprodutores 230 kV                                                                                                          
+561        0.     DF - 500 kV                                                                                                                         
+562        0.     DF - 345 kV                                                                                                                         
+563        0.     DF - 230 kV                                                                                                                         
+564        0.     DF - DIT/DIST (Brasília)                                                                                                            
+582        0.     TO - 230 kV (Centro-Oeste)                                                                                                          
+583        0.     TO - DIT/DIST (Centro-Oeste)                                                                                                        
+701        0.     BA - 500 kV (Oeste)                                                                                                                 
+702        0.     BA - 230 kV (Oeste)                                                                                                                 
+703        0.     BA - DIT/DIST (Oeste)                                                                                                               
+704        0.     BA - Consumidores RB (Oeste)                                                                                                        
+711        0.     BA/SE - 500 kV                                                                                                                      
+712        0.     BA/SE - 230 kV                                                                                                                      
+713        0.     BA/SE - DIT/DIST (Sul NE)                                                                                                           
+714        0.     BA/SE - DIT/DIST (Centro NE)                                                                                                        
+715        0.     BA/SE - Consumidores RB                                                                                                             
+716        0.     BA/SE - Autoprodutores 230 kV                                                                                                       
+721        0.     AL/PE - 500 kV                                                                                                                      
+722        0.     AL/PE - 230 kV                                                                                                                      
+723        0.     AL/PE - DIT/DIST (Leste NE)                                                                                                         
+724        0.     AL/PE - Consumidores RB                                                                                                             
+741        0.     PB/RN - 500 kV                                                                                                                      
+742        0.     PB/RN - 230 kV                                                                                                                      
+743        0.     PB/RN - DIT/DIST (Leste NE)                                                                                                         
+744        0.     PB/RN - Consumidores RB                                                                                                             
+761        0.     CE - 500 kV                                                                                                                         
+762        0.     CE - 230 kV                                                                                                                         
+763        0.     CE - DIT/DIST                                                                                                                       
+764        0.     CE - Consumidores RB                                                                                                                
+771        0.     PI - 500 kV                                                                                                                         
+772        0.     PI - 230 kV                                                                                                                         
+773        0.     PI - DIT/DIST                                                                                                                       
+800        0.                                                                                                                                         
+801        0.     AM - 500 kV (Interligação PA)                                                                                                       
+802        0.     AM - 230 kV                                                                                                                         
+803        0.     AM - DIT/DIST (Mauá III)                                                                                                            
+804        0.     AM - DIT/DIST (Manaus)                                                                                                              
+805        0.     AM - DIT/DIST (J. Teixeira)                                                                                                         
+806        0.     AM - DIT/DIST (Radiais)                                                                                                             
+821        0.     AP - 230 kV                                                                                                                         
+822        0.     AP - DIT/DIST                                                                                                                       
+841        0.     PA - 500 kV                                                                                                                         
+842        0.     PA - 230 kV (Tramo Oeste)                                                                                                           
+843        0.     PA - 230 kV (Norte)                                                                                                                 
+844        0.     PA - 230 kV (Sul)                                                                                                                   
+845        0.     PA - DIT/DIST (Tramo Oeste)                                                                                                         
+846        0.     PA - DIT/DIST (Norte)                                                                                                               
+847        0.     PA - DIT/DIST (Sul)                                                                                                                 
+848        0.     PA - Consumidores RB                                                                                                                
+861        0.     MA - 500 kV                                                                                                                         
+862        0.     MA - 230 kV (Centro/Norte)                                                                                                          
+863        0.     MA - 230 kV (Imperatriz)                                                                                                            
+864        0.     MA - DIT/DIST (Centro/Norte)                                                                                                        
+865        0.     MA - DIT/DIST (Imperatriz)                                                                                                          
+866        0.     MA - Consumidores RB                                                                                                                
+881        0.     TO - 500 kV (Norte)                                                                                                                 
+882        0.     TO - 230 kV (Norte)                                                                                                                 
+883        0.     TO - DIT/DIST (Norte)                                                                                                               
+998        0.                                   
